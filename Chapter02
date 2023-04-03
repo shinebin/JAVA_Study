@@ -1,0 +1,14 @@
+package Chapter02;
+
+public class ex1
+{
+	public static void main(String[] args)
+	{
+		String Name;
+		Name = "Soobin";
+		
+		System.out.printf("Hello, My name is ");
+		System.out.println(Name);
+		System.out.println("Nice to meet you.");
+	}
+}
